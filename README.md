@@ -43,3 +43,4 @@ We welcome contributions from the community. If you'd like to contribute to this
 5. Submit a pull request
 
 
+For any inquiries or feedback, please contact [Afaf Ahmed Khan](mailto:afafahmedkhan@gmail.com).
