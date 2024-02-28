@@ -43,4 +43,4 @@ We welcome contributions from the community. If you'd like to contribute to this
 5. Submit a pull request
 
 ## Contact
-For any inquiries or feedback, please contact [Afaf Ahmed Khan](mailto:afafahmedkhan@gmail.com).
+For any inquiries or feedback, please contact [Afaf Ahmed Khan](mailto:afafahmedkhan@gmail.com) or [GitHub](https://github.com/Afaf2003).
